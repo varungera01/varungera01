@@ -13,12 +13,15 @@
 
  <div>
   <h4> You can reach me at: </h4>
-  <div id="badges">
- <a href="https://www.linkedin.com/in/varun-gera-6b922718b/"  target="_blank" rel="nofollow">
-   <img   src="https://camo.githubusercontent.com/d635f118ad8996b110c442b1e7d8c5eed70fb973bcf9f0a3665ef94b4708cf01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d59757672616a2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Varun-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.instagram.com/varun__gera/"  target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/6a96390174aa13569dd838c66640c3c8fde06f4a7d57880cd2535f66b2b76e9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d59757672616a2d6534343035663f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/-Varun-e4405f?style=flat-square&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-</div>
- </div><br><br>
+    <div id="badges">
+       <a href="https://www.linkedin.com/in/varun-gera-6b922718b/">
+       <img src="https://img.shields.io/badge/-Varun-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+       <a href="https://www.instagram.com/varun__gera/">
+       <img src="https://img.shields.io/badge/-Varun-red?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+  </div>
+  </div><br><br>
 
 About me
 
